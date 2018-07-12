@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 	<channel>
-		<title>C# 本事</title>
+		<title>.NET Core 相依性注入</title>
 		<link>http://host.com/</link>
-		<description>C# 的重要部分</description>
+		<description />
 		<copyright>2018</copyright>
-		<pubDate>Thu, 12 Jul 2018 16:54:10 GMT</pubDate>
-		<lastBuildDate>Thu, 12 Jul 2018 16:54:10 GMT</lastBuildDate>
+		<pubDate>Thu, 12 Jul 2018 16:47:41 GMT</pubDate>
+		<lastBuildDate>Thu, 12 Jul 2018 16:47:41 GMT</lastBuildDate>
 		<item>
 			<title>First Post</title>
 			<link>http://host.com/blog/first-post</link>
 			<description>&lt;p&gt;This is a new blog post.&lt;/p&gt;</description>
-			<enclosure url="http://host.com/images/banner.png" length="0" type="image" />
+			<enclosure url="http://host.com/images/banner.jpg" length="0" type="image" />
 			<guid>http://host.com/blog/first-post</guid>
 			<pubDate>Fri, 01 Jan 2016 00:00:00 GMT</pubDate>
 			<content:encoded>&lt;p&gt;This is a new blog post.&lt;/p&gt;
