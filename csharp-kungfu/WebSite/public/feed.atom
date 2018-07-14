@@ -4,12 +4,12 @@
 	<id>http://host.com/</id>
 	<title>C# 本事</title>
 	<rights>2018</rights>
-	<updated>2018-07-12T16:54:10Z</updated>
-	<logo>http://host.com/images/banner.png</logo>
+	<updated>2018-07-14T07:08:40Z</updated>
+	<logo>http://host.com/images/banner-csharp.png</logo>
 	<subtitle>C# 的重要部分</subtitle>
 	<entry>
 		<link href="http://host.com/blog/first-post" />
-		<link rel="enclosure" type="image" href="http://host.com/images/banner.png" />
+		<link rel="enclosure" type="image" href="http://host.com/images/banner-csharp.png" />
 		<id>http://host.com/blog/first-post</id>
 		<title>First Post</title>
 		<updated>2016-01-01T00:00:00Z</updated>

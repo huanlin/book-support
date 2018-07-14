@@ -7,7 +7,7 @@ Settings[BookSiteKeys.Subtitle] = "涵蓋 C# 7.3";
 Settings[BookSiteKeys.Description] = "C# 的重要部分";
 Settings[BookSiteKeys.BookLink] = "https://leanpub.com/csharp-kungfu/";
 Settings[BookSiteKeys.BookImage] = "/images/title_page.png";  // Add an image at this path to your input folder
-Settings[BookSiteKeys.Image] = "/images/banner.png";  // Add an image at this path to your input folder
+Settings[BookSiteKeys.Image] = "/images/banner-csharp.png";  // Add an image at this path to your input folder
 Settings[BookSiteKeys.ChaptersIntro] = "A short introduction to the content of your book.";
 
 // Add any pipeline customizations here

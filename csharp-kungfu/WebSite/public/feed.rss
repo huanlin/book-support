@@ -5,13 +5,13 @@
 		<link>http://host.com/</link>
 		<description>C# 的重要部分</description>
 		<copyright>2018</copyright>
-		<pubDate>Thu, 12 Jul 2018 16:54:10 GMT</pubDate>
-		<lastBuildDate>Thu, 12 Jul 2018 16:54:10 GMT</lastBuildDate>
+		<pubDate>Sat, 14 Jul 2018 07:08:40 GMT</pubDate>
+		<lastBuildDate>Sat, 14 Jul 2018 07:08:40 GMT</lastBuildDate>
 		<item>
 			<title>First Post</title>
 			<link>http://host.com/blog/first-post</link>
 			<description>&lt;p&gt;This is a new blog post.&lt;/p&gt;</description>
-			<enclosure url="http://host.com/images/banner.png" length="0" type="image" />
+			<enclosure url="http://host.com/images/banner-csharp.png" length="0" type="image" />
 			<guid>http://host.com/blog/first-post</guid>
 			<pubDate>Fri, 01 Jan 2016 00:00:00 GMT</pubDate>
 			<content:encoded>&lt;p&gt;This is a new blog post.&lt;/p&gt;
